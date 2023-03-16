@@ -94,9 +94,7 @@ const Header = () => {
           src="https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png"
         />
       </div>
-      <p>Hello this is random commit</p>
-      <p>Pull Request</p>
-      <p>2nd Branch</p>
+      <p>This is a new feature </p>
     </div>
   );
 };
